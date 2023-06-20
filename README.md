@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://twitch.tv/mettbroetchen43](You can visit me on Twitch) or [https://twitch.tv/mettbroetchen43_dev](You can visit my Twitch Dev Account)
+[You can visit me on Twitch](https://twitch.tv/mettbroetchen43) or [You can visit my Twitch Dev Account](https://twitch.tv/mettbroetchen43_dev)
 
 
 <!--
