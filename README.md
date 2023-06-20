@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[https://twitch.tv/mettbroetchen43](You can visit me on Twitch) or [https://twitch.tv/mettbroetchen43_dev](You can visit my Twitch Dev Account)
+
+
 <!--
 **mettbroetchen43/mettbroetchen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
