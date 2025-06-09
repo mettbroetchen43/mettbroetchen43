@@ -12,6 +12,8 @@ Beside Programming, his hobbies are gaming and using the computer in general.
 stream development activities on Twitch. 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=mettbroetchen43&show_icons=true&count_private=true" />
+
 <!--
 **mettbroetchen43/mettbroetchen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
