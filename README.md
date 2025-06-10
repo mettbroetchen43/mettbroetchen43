@@ -19,6 +19,9 @@ August 3rd of 2014 by [Clker-Free-Vector-Images](https://pixabay.com/de/users/cl
 
 [Click here to see a summary of the Pixabay License-Summary](https://web.archive.org/web/20250602053200/https://pixabay.com/service/license-summary/).
 
+You should be aware that I created a [GPG Public Key](https://mettbroetchen43.github.io/assets/pubkey.asc) :-) 
+
+
 <!--
 **mettbroetchen43/mettbroetchen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
