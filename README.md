@@ -19,7 +19,7 @@ August 3rd of 2014 by [Clker-Free-Vector-Images](https://pixabay.com/de/users/cl
 
 [Click here to see a summary of the Pixabay License-Summary](https://web.archive.org/web/20250602053200/https://pixabay.com/service/license-summary/).
 
-You should be aware that I created a [GPG Public Key](https://mettbroetchen43.github.io/assets/pubkey.asc) :-) 
+I created a [GPG Public Key](https://mettbroetchen43.github.io/assets/pubkey.asc) in June of 2025 which I will use for signing both Commits and Checksum Files for the Releases Section as well. 
 
 
 <!--
