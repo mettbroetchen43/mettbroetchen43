@@ -17,7 +17,7 @@ stream development activities on Twitch.
 The avatar I use on Github was [uploaded on Pixabay](https://pixabay.com/de/vectors/hamburger-l%C3%A4cheln-karikatur-312233/) on
 August 3rd of 2014 by [Clker-Free-Vector-Images](https://pixabay.com/de/users/clker-free-vector-images-3736/). 
 
-[Click here to see a summary of the Pixabay License-Summary](https://web.archive.org/web/20250602053200/https://pixabay.com/service/license-summary/).
+[Click here to see a summary of the Pixabay License](https://web.archive.org/web/20250602053200/https://pixabay.com/service/license-summary/).
 
 I created a [GPG Public Key](https://mettbroetchen43.github.io/assets/pubkey.asc) in June of 2025 which I will use for signing both Commits and Checksum Files for the Releases Section as well. 
 
